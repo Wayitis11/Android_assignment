@@ -1,8 +1,11 @@
 # flutter_application_2
+# NAME: RENTAL APP  
 
-A new Flutter project.
+A new Flutter project that i have done with some help from multiple persons. 
+
 
 ## Getting Started
+TO RUN- FLUTTER run
 
 This project is a starting point for a Flutter application.
 
